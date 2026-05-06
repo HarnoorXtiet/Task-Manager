@@ -2,9 +2,8 @@
 
 A full-stack web application for teams to manage projects and tasks with role-based access control. Built as part of the Ethara AI candidate nomination assignment.
 
-**🌐 Live URL:** [Add your Railway URL here after deployment]
-**📦 Repository:** [Add your GitHub URL here]
-
+**🌐 Live URL:** https://web-production-99dd0.up.railway.app
+**📦 Repository:** https://github.com/HarnoorXtiet/Task-Manager
 ---
 
 ## Features
